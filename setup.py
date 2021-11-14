@@ -7,4 +7,4 @@ setup(name='yd57yjac',
       author='DSSS',
       author_email='yipeng.sun@fau.de',
       packages=find_packages(),
-      install_requires=['numpy', 'Pillow', 'ipywidgets', '[matplotlib.pyplot]'])
+      install_requires=['numpy', 'Pillow', 'ipywidgets', '[matplotlib]'])
