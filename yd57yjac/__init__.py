@@ -1,1 +1,1 @@
-from yd57yjac.function import *
+from yd57yjac.function import imshow
