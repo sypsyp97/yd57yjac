@@ -1,1 +1,1 @@
-from .function import *
+from yd57yjac.function import *
